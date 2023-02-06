@@ -1,0 +1,9 @@
+    <!------ call to action ----->
+    <section class="cta">
+      <h1> Heading</h1>
+      <a href="" class="hero-btn">Contact Us</a>
+    </section>
+
+    
+    
+    https://www.youtube.com/watch?v=gggB0Nq5vBk
